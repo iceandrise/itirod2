@@ -1,6 +1,6 @@
 # Description of the project:
 
-BountyDo is a task management application. After registration, you will have the following options:
+*BountyDo is a task management application. After registration, you will have the following options*:
 
 <br> • Hello, productive day! Create and edit tasks, specifying the title, special tag (related to the field of activity), description and time. </br>
 <br> • Not to forget! If among your tasks there are those that need to be completed right now, then you can make them a priority by clicking on the star so as not to lose them. </br>
@@ -20,3 +20,6 @@ https://github.com/iceandrise/itirod_2/blob/master/1.PNG
 <br> 5) Transfer of unfulfilled tasks of previous days to today with the label “Overdue task”. Notification that not all tasks were completed</br>
 <br> 6) User statistics</br>
 # Data models description:
+User (id, name, surname, email, password)
+Task (id, name, tags, descripton, priority, expired status)
+Bonus_pet (id, name, image, dscription)
