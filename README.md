@@ -21,5 +21,5 @@ https://github.com/iceandrise/itirod_2/blob/master/1.PNG
 <br> 6) User statistics</br>
 # Data models description:</br>
 <br>User (id, name, surname, email, password)</br>
-<br>Task (id, name, tags, descripton, priority, expired status)</br>
+<br>Task (id, name, tags, descripton, time, priority, expired status)</br>
 <br>Bonus_pet (id, name, image, description)</br>
