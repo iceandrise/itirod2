@@ -19,7 +19,7 @@ https://github.com/iceandrise/itirod_2/blob/master/1.PNG
 <br> 4) Getting bonuses (in the form of pets) when completing 5/10/20, etc. tasks. </br>
 <br> 5) Transfer of unfulfilled tasks of previous days to today with the label “Overdue task”. Notification that not all tasks were completed</br>
 <br> 6) User statistics</br>
-# Data models description:
-User (id, name, surname, email, password)
-Task (id, name, tags, descripton, priority, expired status)
-Bonus_pet (id, name, image, dscription)
+# Data models description:</br>
+<br>User (id, name, surname, email, password)</br>
+<br>Task (id, name, tags, descripton, priority, expired status)</br>
+<br>Bonus_pet (id, name, image, dscription)</br>
