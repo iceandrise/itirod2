@@ -22,4 +22,4 @@ https://github.com/iceandrise/itirod_2/blob/master/1.PNG
 # Data models description:</br>
 <br>User (id, name, surname, email, password)</br>
 <br>Task (id, name, tags, descripton, priority, expired status)</br>
-<br>Bonus_pet (id, name, image, dscription)</br>
+<br>Bonus_pet (id, name, image, description)</br>
