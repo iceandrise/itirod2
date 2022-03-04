@@ -1,3 +1,4 @@
+*953504 Курилович Карина*
 # Description of the project:
 
 *BountyDo is a task management application. After registration, you will have the following options*:
