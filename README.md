@@ -11,7 +11,7 @@
 <br> • Gather a collection of unique pets! This feature of the app is designed to motivate you to complete more tasks in a day and collect a whole collection of animals! </br>
 <br> • Help with finding your tasks! If your list of tasks for the day is too long - use filters for tags or search by name to save time. </br>
 # Mock-up:
-https://github.com/iceandrise/itirod_2/blob/master/1.jpeg
+https://github.com/iceandrise/itirod_2/blob/brr/1.jpeg
 
 # Overview of project functions (+ authorization):
 <br> 1) Working with tasks (adding, changing, deleting)</br>
